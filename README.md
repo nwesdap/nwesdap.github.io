@@ -1,3 +1,3 @@
-# Northwest European Shelf Data Analysis Product (NWESDAP)
+# The Northwest European Shelf Data Analysis Product
 
 NWESDAP website
