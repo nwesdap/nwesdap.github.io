@@ -20,7 +20,7 @@ nav = [
 [project.theme]
 # variant = "classic"
 # custom_dir = "overrides"
-# favicon = "images/favicon.png"
+favicon = "img/nwesdap-n.svg"
 language = "en"
 features = [
   "announce.dismiss",
