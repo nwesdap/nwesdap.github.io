@@ -2,7 +2,7 @@
 site_url = "https://nwesdap.github.io/"
 site_name = "NWESDAP"
 site_description = "Northwest European Shelf Data Analysis Product"
-# site_author = "Your name"
+site_author = "Matthew P. Humphreys"
 
 copyright = "Copyright &copy; 2026 NWESDAP"
 
@@ -10,10 +10,9 @@ copyright = "Copyright &copy; 2026 NWESDAP"
 # repo_name = "nwesdap/nwesdap.github.io"
 # edit_uri = "edit/main/docs/"
 
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "NWESDAP" = "index.md" },
+]
 
 # extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
@@ -52,31 +51,35 @@ features = [
   # "toc.integrate",
 ]
 
-# logo = "assets/logo.png"
+logo = "img/nwesdap-n.svg"
 
 # [project.theme.icon]
 # logo = "lucide/smile"
 
-# [project.theme.font]
-# text = "Inter"
+[project.theme.font]
+text = "Andika"
 # code = "Jetbrains Mono"
 
-[[project.theme.palette]]
-media = "(prefers-color-scheme)"
-toggle.icon = "lucide/sun-moon"
-toggle.name = "Switch to light mode"
+# [[project.theme.palette]]
+# media = "(prefers-color-scheme)"
+# toggle.icon = "lucide/sun-moon"
+# toggle.name = "Switch to light mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
+primary = "pink"
+accent = "pink"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to system preference"
+toggle.name = "Switch to light mode"
+primary = "pink"
+accent = "pink"
 
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"
