@@ -1,5 +1,5 @@
 [project]
-site_url = "https://nwesdap.github.io/"
+site_url = "https://nwesdap.net/"
 site_name = "NWESDAP"
 site_description = "Northwest European Shelf Data Analysis Product"
 site_author = "Matthew P. Humphreys"
@@ -11,7 +11,8 @@ copyright = "Copyright &copy; 2026 NWESDAP"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "NWESDAP" = "index.md" },
+  { "About NWESDAP" = "index.md" },
+  { "Dataset access" = "dataset.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
