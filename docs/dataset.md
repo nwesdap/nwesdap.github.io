@@ -64,7 +64,7 @@ See the function's docstring for more details on the contents of the DataFrame.
 
 If you're not working in Python, you can download the data files directly from the [Zenodo archive](https://doi.org/10.5281/zenodo.23495660).  The main NWESDAP dataset is available in CSV, XLSX and Parquet formats.
 
-The specific citation for the current most recent version of the dataset is
+The specific citation for the current most recent version of the dataset is below.
 
 !!! abstract "NWESDAP dataset citation"
 
