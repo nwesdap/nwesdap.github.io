@@ -25,7 +25,7 @@ You'll also need to install either [pyarrow](https://arrow.apache.org/docs/pytho
 
     The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.
     
-    It's fine for setting up workflows, but it should not be used for any research!
+    It's fine for setting up workflows, but it should NOT be used for any research!
 
 All you need is:
 
@@ -62,7 +62,7 @@ If you're not working in Python, you can download the data files directly from t
 
     The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.
     
-    It's fine for setting up workflows, but it should not be used for any research!
+    It's fine for setting up workflows, but it should NOT be used for any research!
 
 The specific citation for the current most recent version of the dataset is
 
