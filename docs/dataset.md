@@ -9,9 +9,6 @@ We have prepared a Python package, [nwesdap](https://github.com/nwesdap/nwesdap-
 
 ### Installation
 
-!!! warning "Package installation not yet live"
-    The installation instructions below don't work yet!
-
 To install, use either of the following:
 ```
 pip install nwesdap
@@ -23,6 +20,10 @@ conda install conda-forge::nwesdap
 You'll also need to install either [pyarrow](https://arrow.apache.org/docs/python/index.html) or [fastparquet](https://fastparquet.readthedocs.io/en/latest/index.html) separately.
 
 ### Usage
+
+!!! warning "Stable version not yet available"
+
+    The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.  It's fine for setting up workflows, but it should not be used for any research!
 
 All you need is:
 
@@ -57,7 +58,7 @@ If you're not working in Python, you can download the data files directly from t
 
 !!! warning "Stable version not yet available"
 
-    The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.  While it could be used for setting up workflows, it should not be used for any research yet!
+    The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.  It's fine for setting up workflows, but it should not be used for any research!
 
 The most recent version can always be found here: [doi:10.5281/zenodo.23495660](https://doi.org/10.5281/zenodo.23495660).
 
