@@ -64,6 +64,8 @@ If you're not working in Python, you can download the data files directly from t
     
     It's fine for setting up workflows, but it should not be used for any research!
 
-The specific citation for the current most recent version is
+The specific citation for the current most recent version of the dataset is
 
-> Brandon, M., Humphreys, M. P., Koek, A. C. (Cuun), Ádler, M. A., Bakker, D. C. E., Becker, M., Bittig, H. C., Bozec, Y., Chierici, M., Darelius, E., Findlay, H. S., Gkritzalis, T., Ivimey-Cook, R., Jones, E. M., Knockaert, M., Lange, N., Leseurre, C., Lødemel, H. H., Macovei, V. A., McGovern, E., McGrath, T., Metzl, N., O’Donnell, G., O’Sullivan, E. M., Ourradi, Y., Petton, S., Salvanes, A. G. V., Skjelvan, I., and Voynova, Y. G.: Northwest European Shelf Data Analysis Product (NWESDAP), version 1.2026rc1, Zenodo, https://doi.org/10.5281/zenodo.23495661, 2026.
+!!! abstract "NWESDAP dataset citation"
+
+    Brandon, M., Humphreys, M. P., Koek, A. C. (Cuun), Ádler, M. A., Bakker, D. C. E., Becker, M., Bittig, H. C., Bozec, Y., Chierici, M., Darelius, E., Findlay, H. S., Gkritzalis, T., Ivimey-Cook, R., Jones, E. M., Knockaert, M., Lange, N., Leseurre, C., Lødemel, H. H., Macovei, V. A., McGovern, E., McGrath, T., Metzl, N., O’Donnell, G., O’Sullivan, E. M., Ourradi, Y., Petton, S., Salvanes, A. G. V., Skjelvan, I., and Voynova, Y. G.: Northwest European Shelf Data Analysis Product (NWESDAP), version 1.2026rc1, Zenodo, https://doi.org/10.5281/zenodo.23495661, 2026.
