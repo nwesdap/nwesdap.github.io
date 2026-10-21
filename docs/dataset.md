@@ -56,7 +56,7 @@ See the function's docstring for more details on the contents of the DataFrame.
 
 ## Zenodo archive
 
-If you're not working in Python, you can download the data files directly from the Zenodo archive.  The main NWESDAP dataset is available in CSV, XLSX and Parquet formats.
+If you're not working in Python, you can download the data files directly from the [Zenodo archive](https://doi.org/10.5281/zenodo.23495660).  The main NWESDAP dataset is available in CSV, XLSX and Parquet formats.
 
 !!! warning "Stable version not yet available"
 
@@ -64,8 +64,6 @@ If you're not working in Python, you can download the data files directly from t
     
     It's fine for setting up workflows, but it should not be used for any research!
 
-The most recent version can always be found here: [doi:10.5281/zenodo.23495660](https://doi.org/10.5281/zenodo.23495660).
-
-The specific citation for the current most recent version (note the different DOI from above!) is:
+The specific citation for the current most recent version is
 
 > Brandon, M., Humphreys, M. P., Koek, A. C. (Cuun), Ádler, M. A., Bakker, D. C. E., Becker, M., Bittig, H. C., Bozec, Y., Chierici, M., Darelius, E., Findlay, H. S., Gkritzalis, T., Ivimey-Cook, R., Jones, E. M., Knockaert, M., Lange, N., Leseurre, C., Lødemel, H. H., Macovei, V. A., McGovern, E., McGrath, T., Metzl, N., O’Donnell, G., O’Sullivan, E. M., Ourradi, Y., Petton, S., Salvanes, A. G. V., Skjelvan, I., and Voynova, Y. G.: Northwest European Shelf Data Analysis Product (NWESDAP), version 1.2026rc1, Zenodo, https://doi.org/10.5281/zenodo.23495661, 2026.
