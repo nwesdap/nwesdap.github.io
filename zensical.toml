@@ -12,6 +12,7 @@ copyright = "Copyright &copy; 2026 NWESDAP"
 
 nav = [
   { "About NWESDAP" = "index.md" },
+  { "Submit data" = "submit.md" },
   { "Dataset access" = "dataset.md" },
 ]
 
