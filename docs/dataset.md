@@ -23,9 +23,9 @@ You'll also need to install either [pyarrow](https://arrow.apache.org/docs/pytho
 
 !!! warning "Stable version not yet available"
 
-    The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.
+    The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.  A definitive version will be released after the [NWESDAP manuscript](https://doi.org/10.5194/essd-2026-872) has been peer reviewed.
     
-    It's fine for setting up workflows, but it should NOT be used for any research!
+    Until then, the dataset is fine for setting up workflows, but it should NOT be used for any research!
 
 All you need is:
 
@@ -58,9 +58,9 @@ See the function's docstring for more details on the contents of the DataFrame.
 
 !!! warning "Stable version not yet available"
 
-    The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.
+    The version of NWESDAP currently published on Zenodo is a *release candidate* and not yet finalised.  A definitive version will be released after the [NWESDAP manuscript](https://doi.org/10.5194/essd-2026-872) has been peer reviewed.
     
-    It's fine for setting up workflows, but it should NOT be used for any research!
+    Until then, the dataset is fine for setting up workflows, but it should NOT be used for any research!
 
 If you're not working in Python, you can download the data files directly from the [Zenodo archive](https://doi.org/10.5281/zenodo.23495660).  The main NWESDAP dataset is available in CSV, XLSX and Parquet formats.
 
